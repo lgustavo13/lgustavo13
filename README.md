@@ -1,11 +1,37 @@
-### Olá pessoal 👋
+### Hi guys 👋
 
-### Sobre o Luiz
-Iniciei na area de TI como QA em 2021 e migrei para a area de desenvolvimento em 2022, sou uma pessoa tranquila, porém dinâmico e aprendo rápido. Me reconheço como entusiasta em tecnologia, gosto de adquirir conhecimento através de cursos, leitura, entre outros para colocar o aprendizado em prática.
+### About me
+I started in the IT area as a QA in 2021 and migrated to development in 2022. I am a calm person, but dynamic and learn quickly. I recognize myself as a technology enthusiast and like to acquire knowledge through courses, reading, among others to put learning into practice.
 
-Possuo foco em desenvolvimento com React, JavaScript, Angular, dentre outras tecnologias usadas para criar aplicações web de alto nível e valor.
+I have a focus on development with React, JavaScript, Angular, among other technologies used to create high-level and valuable web applications.
 
-Me considero ágil e consistente em aprender uma nova linguagem e me adaptar a qualquer mudança, pronto para superar qualquer desafio.
+I consider myself agile and consistent in learning a new language and adapting to any change, ready to overcome any challenge.
+
+Technical Abilities:
+- ReactJS;
+- JavaScript;
+- HTML/CSS;
+- MongoDB;
+- Java;
+- Angular;
+- Tailwind;
+- Sass;
+- NextJS;
+- Bootstrap;
+- Git;
+- MySQL;
+- Node;
+- TypeScript;
+- Redux;
+- React Native;
+- Cypress;
+
+Personal Qualities:
+- Fast learner;
+- Organized;
+- Good troubleshooting;
+- Good to give and receive feedbacks;
+- Fast adaptation;
 
 ### Detalhes
 
@@ -14,6 +40,7 @@ Me considero ágil e consistente em aprender uma nova linguagem e me adaptar a q
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lgustavo13&repo=tiktok_clone&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lgustavo13&repo=notes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
