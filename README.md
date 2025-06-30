@@ -39,8 +39,8 @@ Personal Qualities:
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lgustavo13&repo=tiktok_clone&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lgustavo13&repo=notes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lgustavo13&repo=tiktok_clone&theme=dark)](https://github.com/lgustavo13/tiktok_clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lgustavo13&repo=notes&theme=dark)](https://github.com/lgustavo13/notes)
 
 ### Linguagens utilizadas
 
